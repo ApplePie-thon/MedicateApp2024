@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738622985270",
+    "project_id": "medicate-35438",
+    "storage_bucket": "medicate-35438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738622985270:android:ab6711d288e9866fb77497",
+        "android_client_info": {
+          "package_name": "com.example.flutter_medicate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOCh98BpHjAxI3HU6J6dvgJHxr6yEgdXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
